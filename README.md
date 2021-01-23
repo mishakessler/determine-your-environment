@@ -10,18 +10,15 @@
 
 <br>
 
-## Table of Contents
+## TABLE OF CONTENTS
 
-- [Table of Contents](#table-of-contents)
-- [More Information Coming Soon](#more-information-coming-soon)
+- [TABLE OF CONTENTS](#table-of-contents)
 
 <br>
 
-***
+_More Information Coming Soon_
 
-## More Information Coming Soon
-
-
+<br>
 
 [back to top]
 
