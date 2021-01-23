@@ -1,4 +1,4 @@
-# Determine Your Environment
+# Determine Your Environment <!-- omit in toc -->
 
 **A guide to determining your environment's key variables.**
 
@@ -12,30 +12,26 @@
 
 ## Table of Contents
 
-- [Determine Your Environment](#determine-your-environment)
-  - [Table of Contents](#table-of-contents)
+- [Table of Contents](#table-of-contents)
+- [More Information Coming Soon](#more-information-coming-soon)
 
 <br>
 
 ***
 
-##
+## More Information Coming Soon
+
+
 
 [back to top]
 
 <br>
 
-***
-
 <!-- Links -->
 [Guide to Determining Your Environment]: github.com/mishakessler/determine-your-environment
-
 [Unix Version]: github.com/mishakessler/unix-environment
 [M1 Version]: github.com/mishakessler/m1-environment
 [Linux Version]: github.com/mishakessler/linux-environment
-
-[Unix Tools of the Trade]: github.com/mishakessler/unix-tools-of-the-trade
-
+[Tools of the Trade]: github.com/mishakessler/tools-of-the-trade
 [Glossary]: github.com/mishakessler/glossary
-
 [back to top]: #table-of-contents
