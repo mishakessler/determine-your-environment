@@ -20,7 +20,7 @@ _More Information Coming Soon_
 
 <br>
 
-[back to top]
+[⬆️ back to top]
 
 <br>
 
@@ -31,4 +31,4 @@ _More Information Coming Soon_
 [Linux Version]: github.com/mishakessler/linux-environment
 [Tools of the Trade]: github.com/mishakessler/tools-of-the-trade
 [Glossary]: github.com/mishakessler/glossary
-[back to top]: #table-of-contents
+[⬆️ back to top]: #table-of-contents
